@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadhassan98
 - 👀 I’m interested in Learning about new technologies.
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Backend Web Development.
 - 💞️ I’m looking to collaborate on MongoDB,Node.js,React.js,Javascript
 - 📫 How to reach me via my emailID - shadhassan657@gmail.com
 
